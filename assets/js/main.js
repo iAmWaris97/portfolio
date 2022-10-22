@@ -32,6 +32,7 @@ navLink.forEach((n) => n.addEventListener('click', linkAction));
 /*= =================== ACCORDION SKILLS ==================== */
 
 /*= =================== QUALIFICATION TABS ==================== */
+// Qualifications to come here!
 
 /*= =================== SERVICES MODAL ==================== */
 
